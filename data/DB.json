@@ -1,0 +1,13 @@
+{
+  "ids": {
+    "Producto": 6
+  },
+  "models": {
+    "Producto": {
+      "2": "{\"nombre\":\"COLORES ACUARELABLES, 12 UNIDADES\",\"precio\":21500,\"descripcion\":\"Marca Faber Castell\",\"urlImagen\":\"https://panamericana.vteximg.com.br/arquivos/ids/355830-1600-1600/colores-acuarelables-12-unidades-7891360545637.jpg\",\"id\":2}",
+      "3": "{\"nombre\":\"COLORES PRISMACOLOR® JUNIOR X 24 UNIDADES\",\"precio\":39800,\"descripcion\":\"Marca PrismaColor\",\"urlImagen\":\"https://panamericana.vteximg.com.br/arquivos/ids/417378-1600-1600/colores-prismacolor-x-24-unidades-70530014860.jpg\",\"id\":3}",
+      "4": "{\"nombre\":\"COLORES NORMA PREMIUM X 24 UNIDADES\",\"precio\":42900,\"descripcion\":\"Marca Norma\",\"urlImagen\":\"https://panamericana.vteximg.com.br/arquivos/ids/420541-1600-1600/colores-norma-x24-premium-7702111588592.jpg\",\"id\":4}",
+      "5": "{\"nombre\":\"COLORES MAGICOLOR X 24 UNIDADES, 48 COLORES, DOBLE PUNTA CILÍNDRICOS\",\"precio\":40100,\"descripcion\":\"Marca Magicolor\",\"urlImagen\":\"https://panamericana.vteximg.com.br/arquivos/ids/306883-1600-1600/colores-cilindricos-bicolor-magicolor-24-unidades-7703486012910.jpg\",\"id\":5}"
+    }
+  }
+}
